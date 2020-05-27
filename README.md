@@ -1,2 +1,1 @@
-# new_repo
-New repo for class yeah!!!
+# harveyb4b.github.io
